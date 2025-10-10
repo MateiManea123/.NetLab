@@ -1,0 +1,14 @@
+/Users/mateimanea/RiderProjects/Lab3/Lab3/bin/Debug/net9.0/Lab3
+/Users/mateimanea/RiderProjects/Lab3/Lab3/bin/Debug/net9.0/Lab3.deps.json
+/Users/mateimanea/RiderProjects/Lab3/Lab3/bin/Debug/net9.0/Lab3.runtimeconfig.json
+/Users/mateimanea/RiderProjects/Lab3/Lab3/bin/Debug/net9.0/Lab3.dll
+/Users/mateimanea/RiderProjects/Lab3/Lab3/bin/Debug/net9.0/Lab3.pdb
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/Lab3.AssemblyInfoInputs.cache
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/Lab3.AssemblyInfo.cs
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/Lab3.dll
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/refint/Lab3.dll
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/Lab3.pdb
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/Lab3.genruntimeconfig.cache
+/Users/mateimanea/RiderProjects/Lab3/Lab3/obj/Debug/net9.0/ref/Lab3.dll
